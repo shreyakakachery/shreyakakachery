@@ -45,6 +45,13 @@ Here are some ideas to get you started:
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![Knex.js](https://img.shields.io/badge/knex.js-%23323330.svg?style=for-the-badge&logo=knex.js&logoColor=%23F7DF1E) 
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Axios](https://img.shields.io/badge/axios-%23323330.svg?style=for-the-badge&logo=axios&logoColor=white)
+![Leaflet.js](https://img.shields.io/badge/leaflet-%2300263C.svg?style=for-the-badge&logo=leaflet&logoColor=white)
+![React Router](https://img.shields.io/badge/react_router-%23CA4245.svg?style=for-the-badge&logo=react-router&logoColor=white)
+![Nodemon](https://img.shields.io/badge/nodemon-%2300C853.svg?style=for-the-badge&logo=nodemon&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%2300843F.svg?style=for-the-badge&logo=matplotlib&logoColor=white)
@@ -52,6 +59,7 @@ Here are some ideas to get you started:
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/tensorflow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/pytorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
+
 
 
 
